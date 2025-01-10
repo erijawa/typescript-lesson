@@ -5,3 +5,11 @@ let negative: number = -1;
 let single: string = 'hello';
 let double: string = "hello";
 let back: string = `hello`;
+
+const person: {
+  name: string;
+  age: number;
+} = {
+  name: "Jack",
+  age: 21
+}
